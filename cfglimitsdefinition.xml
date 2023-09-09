@@ -6,12 +6,14 @@
         <category name="clothes"/>
         <category name="vehiclesparts"/>
         <category name="food"/>
-        <category name="weapons"/>
+        <category name="weapons" />
         <category name="books"/>
         <category name="explosives"/>
 		<category name="mag"/><!--追加-->
 		<category name="ammo"/><!--追加-->
 		<category name="wpparts"/><!--追加-->
+		<category name="milclothes"/>
+
     </categories>
     <tags>
         <tag name="floor"/>

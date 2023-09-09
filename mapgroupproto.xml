@@ -186,6 +186,9 @@
 						<category name="tools" />
 						<category name="containers" />
 						<category name="weapons" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="-9.123338 -1.293713 3.986086" range="0.753125" height="1.882813" />
@@ -8213,6 +8216,9 @@
 						<category name="clothes" />
 						<category name="food" />
 						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="2.327837 -1.099640 1.594077" range="0.100000" height="0.250000" />
 						<point pos="3.350748 -1.099174 1.585214" range="0.100000" height="0.250000" />
@@ -8434,6 +8440,9 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="5.821370 -1.742310 3.907422" range="0.100000" height="0.250000" />
 						<point pos="7.095094 -1.191040 2.885274" range="0.100000" height="0.250000" />
@@ -9019,6 +9028,9 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="6.385253 -5.624390 -3.917481" range="0.100000" height="0.250000" />
 						<point pos="6.708496 -5.446198 -2.932129" range="0.100000" height="0.250000" />
@@ -9263,6 +9275,9 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="6.385253 -5.624390 -3.917481" range="0.100000" height="0.250000" />
 						<point pos="6.708496 -5.446198 -2.932129" range="0.100000" height="0.250000" />
@@ -12043,9 +12058,9 @@
 				<usage name="Police" />
 				<container name="lootFloor" lootmax="10">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
 						<category name="weapons" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
 						<tag name="floor" />
 						<tag name="shelves" />
 						<point pos="1.672654 -0.265442 -0.195427" range="0.387367" height="0.181305" />
@@ -12077,11 +12092,9 @@
 						<point pos="-0.648926 -0.990211 0.730957" range="0.390233" height="1.948242" />
 				</container>
 				<container name="lootshelves" lootmax="3">
-						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
-						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="2.895020 0.074921 0.659912" range="0.203125" height="0.507813" />
 						<point pos="0.526856 -0.346703 0.673584" range="0.306250" height="0.765625" />
@@ -14347,6 +14360,9 @@
 						<category name="containers" />
 						<category name="clothes" />
 						<category name="books" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<tag name="shelves" />
 						<point pos="5.821370 -1.742310 3.907422" range="0.100000" height="0.250000" />
 						<point pos="7.095094 -1.191040 2.885274" range="0.100000" height="0.250000" />
@@ -15037,6 +15053,9 @@
 				<usage name="Police" />
 				<container name="loot" lootmax="6">
 						<category name="weapons" />
+								<category name="mag"/><!--追加-->
+								<category name="ammo"/><!--追加-->
+								<category name="wpparts"/><!--追加-->
 						<point pos="0.031705 -0.464386 0.646786" range="0.100000" height="0.170959" />
 						<point pos="-1.275356 0.155441 0.962088" range="0.100000" height="0.250000" />
 						<point pos="-1.227970 0.297272 -0.657177" range="0.100000" height="0.250000" />
@@ -15149,6 +15168,9 @@
 				<usage name="Police" />
 				<container name="loot" lootmax="6">
 						<category name="weapons" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<point pos="-0.756097 -0.451713 -0.498970" range="0.100000" height="0.250000" />
 						<point pos="-1.289279 0.145333 -0.723734" range="0.168750" height="0.421875" />
 						<point pos="-1.222338 0.196649 0.878290" range="0.134375" height="0.335938" />
@@ -16789,9 +16811,10 @@
 				<usage name="Police" />
 				<container name="loot" lootmax="4">
 						<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
 						<category name="weapons" />
+						<category name="mag"/><!--追加-->
+						<category name="ammo"/><!--追加-->
+						<category name="wpparts"/><!--追加-->
 						<point pos="2.244171 -0.855103 -0.003878" range="0.615625" height="1.539063" flags="32" />
 						<point pos="-0.379375 -0.763641 0.538238" range="0.100000" height="0.250000" />
 						<point pos="1.667249 -0.310577 0.402907" range="0.100000" height="0.250000" />
