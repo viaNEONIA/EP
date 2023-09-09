@@ -9,6 +9,9 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+		<category name="mag"/><!--追加-->
+		<category name="ammo"/><!--追加-->
+		<category name="wpparts"/><!--追加-->
     </categories>
     <tags>
         <tag name="floor"/>
